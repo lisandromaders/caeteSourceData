@@ -1,0 +1,6 @@
+./readJBData/readJBData.C
+./readUBBData/readUBBData.C
+
+LIB = $(FOAM_USER_LIBBIN)/libSourceData
+
+

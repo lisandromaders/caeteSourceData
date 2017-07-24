@@ -1,0 +1,5 @@
+SOURCE = \
+./readJBData/readJBData.C \
+./readUBBData/readUBBData.C \
+./calculateUBBTerm/calculateUBBTerm.C \
+version_of_build.rc
